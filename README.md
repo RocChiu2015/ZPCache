@@ -1,2 +1,4 @@
 # ZPCache
 本Demo主要介绍NSCache类是如何使用的。NSCache类和SDWebImage第三方的缓存机制差不多。
+
+本Demo是结合潭州学院公开课的相关内容撰写的。
